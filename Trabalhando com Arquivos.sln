@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36121.58 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_FileInfo", "Trabalhando com Arquivos\File_FileInfo.csproj", "{14582803-8873-43D4-B8E9-393ED614FF6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{8D2A97AF-B27E-452A-8C94-1160B4BE0E30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{14582803-8873-43D4-B8E9-393ED614FF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14582803-8873-43D4-B8E9-393ED614FF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14582803-8873-43D4-B8E9-393ED614FF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2A97AF-B27E-452A-8C94-1160B4BE0E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2A97AF-B27E-452A-8C94-1160B4BE0E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2A97AF-B27E-452A-8C94-1160B4BE0E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2A97AF-B27E-452A-8C94-1160B4BE0E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
