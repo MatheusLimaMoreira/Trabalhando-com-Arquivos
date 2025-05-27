@@ -13,7 +13,7 @@ namespace FileStream_Course
             {
                 //fs = new FileStream(Path, FileMode.Open);
                 sr = File.OpenText(Path);
-                while (!sr.EndOfStream)
+                while (!sr.EndOfStream) //Ler todas as linhas do arquivo
                 {
                     string line = sr.ReadLine();
                     Console.WriteLine(line);
