@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWhriter", "StreamWhri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory and DirectoryInfo", "Directory and DirectoryInfo\Directory and DirectoryInfo.csproj", "{E299A642-EF7D-478A-86A9-2A9AFC16C9EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path", "Path\Path.csproj", "{E7EEA6F9-7A56-4B46-AB61-F6B8B523ADB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E299A642-EF7D-478A-86A9-2A9AFC16C9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E299A642-EF7D-478A-86A9-2A9AFC16C9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E299A642-EF7D-478A-86A9-2A9AFC16C9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EEA6F9-7A56-4B46-AB61-F6B8B523ADB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EEA6F9-7A56-4B46-AB61-F6B8B523ADB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EEA6F9-7A56-4B46-AB61-F6B8B523ADB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EEA6F9-7A56-4B46-AB61-F6B8B523ADB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
